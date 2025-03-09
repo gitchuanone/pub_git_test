@@ -10,6 +10,9 @@ fighting, fighting, fighting.
 
 
 
+
+=======
+
 # 2025 
 
 2023-05-04 至 2025-03-04  成都XX公司 ，公司经营困难裁员。
@@ -19,11 +22,7 @@ fighting, fighting, fighting.
 
 
 
-
-
-
-
-
+this is cool.
 
 
 
